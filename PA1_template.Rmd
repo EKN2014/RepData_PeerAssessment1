@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #REPRODUCIBLE RESEARCH PEER ASSESSMENT 1
 
 **LOAD AND PREPROCESS THE DATA**
@@ -199,3 +200,30 @@ qplot(interval, steps, data=data5, geom=c("line"), xlab="Interval",
 
 
 
+=======
+---
+title: "Reproducible Research: Peer Assessment 1"
+output: 
+  html_document:
+    keep_md: true
+---
+
+
+## Loading and preprocessing the data
+
+
+
+## What is mean total number of steps taken per day?
+
+
+
+## What is the average daily activity pattern?
+
+
+
+## Imputing missing values
+
+
+
+## Are there differences in activity patterns between weekdays and weekends?
+>>>>>>> c0525389ea6e8a244d4766efa36364c84cc1fff8
